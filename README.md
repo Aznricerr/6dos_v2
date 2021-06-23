@@ -7,4 +7,5 @@ ln(N)/ln(K) = degrees of seperation.
 
 resources:
 https://sites.psu.edu/siowfa14/2014/09/17/the-six-degrees-of-separation/#:~:text=%E2%80%9CThe%20average%20path%20length%20between,and%20K%20%3D%20acquaintances%20per%20node.&text=Yes%2C%20this%20is%20a%20formula,of%20separation%20averaging%20at%206.6.
+
 https://en.wikipedia.org/wiki/Six_degrees_of_separation
