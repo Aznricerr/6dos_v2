@@ -5,6 +5,8 @@ This project is intented to simulate the idea of 6 degrees of seperation. The pr
 To scale this function: N = Population, K = edges/aquaintances per node
 ln(N)/ln(K) = degrees of seperation.
 
+To Compile: gcc 6dos_main.c -lm
+
 resources:
 
 https://sites.psu.edu/siowfa14/2014/09/17/the-six-degrees-of-separation/#:~:text=%E2%80%9CThe%20average%20path%20length%20between,and%20K%20%3D%20acquaintances%20per%20node.&text=Yes%2C%20this%20is%20a%20formula,of%20separation%20averaging%20at%206.6.
